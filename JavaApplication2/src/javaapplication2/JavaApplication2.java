@@ -17,15 +17,15 @@ public class JavaApplication2 {
     public static void main(String[] args) {
     
      //Ejercicio 1 semana 3
-    /*
+    
     for (int i = 0; i < 5; i++){
     System.out.println("@@@@@@@@@@");
     }
-    */
+    
 
     
     //Ejercicio 2 semana 3
-    /*
+    
     String a;
     double numero;    
     a = JOptionPane.showInputDialog("Introduzca el numero para realizar la tabla");     
@@ -35,10 +35,10 @@ public class JavaApplication2 {
     for (int contador = 0; contador <= 9; contador++){
         System.out.println(numero + "x" + tabla + "=" + numero*tabla);
         tabla = tabla+1;
-    }*/
+    }
     
     //Ejercicio 3 semana 3
-    /*
+    
     String b;
     double cantidad;    
     b = JOptionPane.showInputDialog("Ingrese la cantidad de veces que se va extender el triangulo");     
@@ -49,20 +49,20 @@ public class JavaApplication2 {
             System.out.println(contenido);
             contenido = contenido + "*";
             cantidad--;
-        }*/
+        }
         
     //Ejercicio 4 semana 3
-    /*
+    
     int valor = 10;
     int digito = 20;
     while (valor >= 0){
         System.out.println(digito + " al cuadrado" + " = " + digito * digito);
         digito++;
         valor--;
-    }*/
+    }
         
      //Ejercicio 5 semana 3
-     /*
+     
     String x;
     int estudiantes;  
     x = JOptionPane.showInputDialog("Introduzca la cantidad de estudiantes");    
@@ -94,7 +94,7 @@ public class JavaApplication2 {
         System.out.println("la cantidad de estudiantes aprobados es de" + aprobados);
         System.out.println("la nota mayor es de" + nota_mayor);
         System.out.println("la nota menor es de" + nota_menor);
-    */
+    
       
      //Ejercicio 6 ssemana 3
     int promedio = 0;
